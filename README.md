@@ -6,33 +6,25 @@ My attention to detail and dedication to crafting clean, well-structured code ar
 I also have experience in **manual testing, API testing, database testing, SQL queries**, and possess a strong understanding of the **Software Development Life Cycle (SDLC), Bug Life Cycle, and Test Reports**.
 
 ---
-
 ## ✨ Where to find me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/md-xhamed-emon-09a82a1b8)  
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=facebook)](https://www.facebook.com/ayon.emon.16/)  
-[![Website](https://img.shields.io/badge/-Website-000?logo=google-chrome)]((https://mdemonhossen.vercel.app/))
+[![LinkedIn](https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/md-xhamed-emon-09a82a1b8)  
+[![Facebook](https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg)](https://www.facebook.com/ayon.emon.16/)  
+[![Website](https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg)](https://mdemonhossen.vercel.app/)
 
 ---
 
 ## 🛠 Languages and Frameworks
-![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)  
-![MySQL](https://img.shields.io/badge/-MySQL-lightblue?logo=mysql)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php)  
-![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel)  
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js)  
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js)  
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/>
-</p>
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)  
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)  
+![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg)  
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)  
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)  
+![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)  
+![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg)  
+![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg)  
+![Nuxt.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg)  
 
 ---
 ## 🔥 Version Control
-![Git](https://img.shields.io/badge/-Git-orange?logo=git)
+![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
+
