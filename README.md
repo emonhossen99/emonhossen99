@@ -8,6 +8,8 @@ I also have experience in **manual testing, API testing, database testing, SQL q
 ---
 
 ## ✨ Where to find me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/md-xhamed-emon-09a82a1b8)  
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=facebook)](https://www.facebook.com/ayon.emon.16/)  
 [![Website](https://img.shields.io/badge/-Website-000?logo=google-chrome)]((https://mdemonhossen.vercel.app/))
