@@ -27,6 +27,12 @@ I also have experience in **manual testing, API testing, database testing, SQL q
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js)  
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js)  
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/>
+</p>
+
 ---
 ## 🔥 Version Control
 ![Git](https://img.shields.io/badge/-Git-orange?logo=git)
