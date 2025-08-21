@@ -7,12 +7,12 @@ I also have experience in **manual testing, API testing, database testing, SQL q
 
 ---
 ## ✨ Where to find me  
-<a href="https://www.linkedin.com/in/md-xhamed-emon-09a82a1b8" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-</a>
-
 <a href="https://www.facebook.com/ayon.emon.16/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="30" height="30"/>
+</a>
+
+<a href="https://www.linkedin.com/in/md-xhamed-emon-09a82a1b8" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
 
 <a href="https://mdemonhossen.vercel.app/" target="_blank">
