@@ -26,11 +26,13 @@ I also have experience in **manual testing, API testing, database testing, SQL q
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
 
-<a href="https://mdemonhossen.vercel.app/" target="_blank">
+<a href="https://mdemonhossen.vercel.app" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Website" width="30" height="30"/>
 </a>
 
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
+<a href="mailto:mdxhamedemon@gmail" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="Gmail" width="30" height="30"/>
+</a>
 
 ---
 
