@@ -31,7 +31,7 @@ I also have experience in **manual testing, API testing, database testing, SQL q
 </a>
 
 <a href="mailto:mdxhamedemon@gmail" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/email/email-original.svg" alt="Gmail" width="30" height="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="30" height="30"/>
 </a>
 
 ---
