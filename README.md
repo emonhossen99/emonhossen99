@@ -70,8 +70,6 @@ I also have experience in **manual testing, API testing, database testing, SQL q
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emonhossen99&show_icons=true&theme=radical)  
-![Streak Stats](https://streak-stats.demolab.com?user=emonhossen99&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emonhossen99&layout=compact&theme=radical)  
 
 ---
