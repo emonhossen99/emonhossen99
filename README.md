@@ -39,5 +39,6 @@ I also have experience in **manual testing, API testing, database testing, SQL q
 ## 🔥 Version Control
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="30" height="30"/>
 </p>
 
