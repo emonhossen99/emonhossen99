@@ -66,14 +66,6 @@ I also have experience in **manual testing, API testing, database testing, SQL q
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30"/>
 </p>
-
----
-
-## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emonhossen99&layout=compact&theme=radical)  
-
----
-
 ## 🌟 Projects  
 
 - [📚 LMS Ebook Repository](https://github.com/emonhossen99/ebook-lms) – Laravel + Vue  
