@@ -75,15 +75,27 @@ I also have experience in **manual testing, API testing, database testing, SQL q
 ---
 
 ## 🌟 Projects  
+
 - [📚 LMS Ebook Repository](https://github.com/emonhossen99/ebook-lms) – Laravel + Vue  
 - [🛒 E-commerce Website](https://github.com/emonhossen99/ecommerce) – Laravel, Bootstrap  
 - [📊 Inventory & Reporting System](https://github.com/emonhossen99/inventory-system) – Laravel, MySQL  
 
----
+### 🌐 Live Websites  
+- [DoppCall](https://doppcall.com/) – Full-stack Website  
+- [FDT Booking](https://fdtbooking.co.uk/) – Booking Platform  
+- [Pigeondex](https://www.pigeondex.com/) – Custom Web Application  
+- [Everyday Fashion BD](https://everydayfashionbd.com/) – E-commerce Fashion Store  
+- [Mostofa Traders](https://mostofatraders.com/) – Trading & Inventory Website  
+- [EasyDeal](https://easydeal.com.bd/) – Online Shopping Platform  
+- [AponShop](https://new.aponshop.xyz/) – Marketplace Website
 
 ## 🎓 Education  
 - 🎓 **B.Sc in Computer Science & Engineering (CSE)**  
-  Sonargaon University – *2024*  
+  Sonargaon University – *2024*
+
+- 🎓 **Diploma  in Engineering (CSE)**  
+  Habiganj Polytechnic Institute – *2018-19*
+  CGPA : *3.73*
 
 ---
 
