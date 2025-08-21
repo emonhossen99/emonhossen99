@@ -91,7 +91,7 @@ I also have experience in **manual testing, API testing, database testing, SQL q
 
 ## 🎓 Education  
 - 🎓 **B.Sc in Computer Science & Engineering (CSE)**  
-  Sonargaon University – *2024*
+  Sonargaon University – *2024*  
   Runing
 
 - 🎓 **Diploma  in Engineering (CSE)**  
