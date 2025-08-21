@@ -10,11 +10,10 @@ I also have experience in **manual testing, API testing, database testing, SQL q
 ## 👨‍💻 About Me  
 - 🔭 Currently working on **Laravel + Vue.js projects**  
 - 🌱 Currently learning **Inertia.js & Advanced Laravel**  
-- 👯 Open to collaborate on **Open Source / Laravel packages**  
 - 💬 Ask me about **Laravel, Vue.js, API Development**  
-- 📫 Reach me at: **emon.dev@example.com**  
+- 📫 Reach me at: **[emon.dev@example.com](https://mdemonhossen.vercel.app/)**  
+- ⏳ I dedicate **3 hours daily** to learning & improving my skills  
 - ⚡ Fun fact: *Clean Code > Clever Code*  
-
 ---
 
 ## ✨ Where to find me  
