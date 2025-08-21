@@ -57,6 +57,7 @@ I also have experience in **manual testing, API testing, database testing, SQL q
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/swagger-api/swagger-ui/main/docs/assets/favicon-32x32.png" width="30" />
 </p>
 
 ---
