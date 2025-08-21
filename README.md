@@ -1,11 +1,22 @@
-# 👋 Hey, this is Md Emon Hossen
+# 👋 Hey, this is Md Emon Hossen  
 
-I am a passionate web developer. My journey as a web developer began with a strong foundation in **HTML, CSS, and JavaScript**, which allowed me to build solid websites. Over time, I expanded my knowledge and dived into frameworks like **Laravel**, enabling me to develop dynamic and interactive web applications.
+I am a passionate web developer. My journey as a web developer began with a strong foundation in **HTML, CSS, and JavaScript**, which allowed me to build solid websites. Over time, I expanded my knowledge and dived into frameworks like **Laravel**, enabling me to develop dynamic and interactive web applications.  
 
 My attention to detail and dedication to crafting clean, well-structured code are central to my development process.  
-I also have experience in **manual testing, API testing, database testing, SQL queries**, and possess a strong understanding of the **Software Development Life Cycle (SDLC), Bug Life Cycle, and Test Reports**.
+I also have experience in **manual testing, API testing, database testing, SQL queries**, and possess a strong understanding of the **Software Development Life Cycle (SDLC), Bug Life Cycle, and Test Reports**.  
 
 ---
+
+## 👨‍💻 About Me  
+- 🔭 Currently working on **Laravel + Vue.js projects**  
+- 🌱 Currently learning **Inertia.js & Advanced Laravel**  
+- 👯 Open to collaborate on **Open Source / Laravel packages**  
+- 💬 Ask me about **Laravel, Vue.js, API Development**  
+- 📫 Reach me at: **emon.dev@example.com**  
+- ⚡ Fun fact: *Clean Code > Clever Code*  
+
+---
+
 ## ✨ Where to find me  
 <a href="https://www.facebook.com/ayon.emon.16/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="30" height="30"/>
@@ -19,28 +30,92 @@ I also have experience in **manual testing, API testing, database testing, SQL q
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Website" width="30" height="30"/>
 </a>
 
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
+
 ---
 
 ## 🛠 Languages and Frameworks
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/>
 </p>
-
 
 ---
-## 🔥 Version Control
+
+## 🧰 Tools & IDEs  
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30"/>
 </p>
 
+---
+
+## 🔥 Version Control
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emonhossen99&show_icons=true&theme=radical)  
+![Streak Stats](https://streak-stats.demolab.com?user=emonhossen99&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emonhossen99&layout=compact&theme=radical)  
+
+---
+
+## 🌟 Projects  
+- [📚 LMS Ebook Repository](https://github.com/emonhossen99/ebook-lms) – Laravel + Vue  
+- [🛒 E-commerce Website](https://github.com/emonhossen99/ecommerce) – Laravel, Bootstrap  
+- [📊 Inventory & Reporting System](https://github.com/emonhossen99/inventory-system) – Laravel, MySQL  
+
+---
+
+## 🎓 Education  
+- 🎓 **B.Sc in Computer Science & Engineering (CSE)**  
+  [Your University Name] – *[Year]*  
+
+---
+
+## 🌱 Currently Learning  
+- **Inertia.js** – Laravel + Vue Integration  
+- **Advanced Laravel (Queues, Events, Notifications, Broadcasting)**  
+- **System Design & Scalability**  
+
+---
+
+## 🏆 Open Source Contributions  
+- Laravel Packages  
+- Vue Components  
+- Small Utility Tools  
+
+---
+
+## 🎖 Achievements / Badges  
+![Profile Views](https://komarev.com/ghpvc/?username=emonhossen99&color=blue)  
+![GitHub Followers](https://img.shields.io/github/followers/emonhossen99?style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/emonhossen99?style=social)  
+
+---
+
+## 🐍 Contribution Graph  
+![Snake animation](https://github.com/emonhossen99/emonhossen99/blob/output/github-contribution-grid-snake.svg)  
+
+---
+
+## ✨ Quote  
+> *"Code is like humor. When you have to explain it, it’s bad."*  
+
+---
