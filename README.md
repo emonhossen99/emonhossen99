@@ -94,8 +94,8 @@ I also have experience in **manual testing, API testing, database testing, SQL q
   Sonargaon University – *2024*
 
 - 🎓 **Diploma  in Engineering (CSE)**  
-  Habiganj Polytechnic Institute – *2018-19*
-  -CGPA : *3.73*
+  Habiganj Polytechnic Institute – *2018-19*  
+  CGPA : *3.73*
 
 ---
 
