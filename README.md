@@ -83,35 +83,22 @@ I also have experience in **manual testing, API testing, database testing, SQL q
 
 ## 🎓 Education  
 - 🎓 **B.Sc in Computer Science & Engineering (CSE)**  
-  [Your University Name] – *[Year]*  
+  Sonargaon University – *2024*  
 
 ---
 
 ## 🌱 Currently Learning  
 - **Inertia.js** – Laravel + Vue Integration  
-- **Advanced Laravel (Queues, Events, Notifications, Broadcasting)**  
 - **System Design & Scalability**  
 
 ---
 
-## 🏆 Open Source Contributions  
-- Laravel Packages  
-- Vue Components  
-- Small Utility Tools  
-
----
 
 ## 🎖 Achievements / Badges  
 ![Profile Views](https://komarev.com/ghpvc/?username=emonhossen99&color=blue)  
 ![GitHub Followers](https://img.shields.io/github/followers/emonhossen99?style=social)  
 ![GitHub Stars](https://img.shields.io/github/stars/emonhossen99?style=social)  
 
----
-
-## 🐍 Contribution Graph  
-![Snake animation](https://github.com/emonhossen99/emonhossen99/blob/output/github-contribution-grid-snake.svg)  
-
----
 
 ## ✨ Quote  
 > *"Code is like humor. When you have to explain it, it’s bad."*  
