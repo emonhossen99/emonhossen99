@@ -58,6 +58,8 @@ I also have experience in **manual testing, API testing, database testing, SQL q
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30"/>
   <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="30"/>
   <img src="https://laragon.org/images/logo/laragon.png" width="30"/>
+  <img src="https://laragon.org/images/logo/laragon.png" width="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="30"/>
