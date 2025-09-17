@@ -17,8 +17,8 @@ I also have experience in **manual testing, API testing, database testing, SQL q
 ---
 
 ## ✨ Where to find me  
-<a href="https://wa.me/+447508330016" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/whatsapp/whatsapp-original.svg" alt="Facebook" width="30" height="30"/>
+<a href="https://wa.me/447508330016" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384055.png" alt="WhatsApp" width="30" height="30"/>
 </a>
 
 <a href="https://www.facebook.com/ayon.emon.16/" target="_blank">
