@@ -11,7 +11,8 @@ I also have experience in **manual testing, API testing, database testing, SQL q
 - 🔭 Currently working on **Laravel + Vue.js projects**  
 - 🌱 Currently learning **Inertia.js & Advanced Laravel**  
 - 💬 Ask me about **Laravel, Vue.js, API Development**  
-- 📫 Reach me at: **[My Portfolio](https://mdemonhossen.vercel.app/)**  
+- 📫 Reach me at: **[My Portfolio](https://mdemonhossen.vercel.app)**
+- 📫 Reach me at New One: **[My Portfolio](https://dev-emon-hossen.vercel.app)**   
 - ⏳ I dedicate **3 hours daily** to learning & improving my skills  
 - ⚡ Fun fact: *Clean Code > Clever Code*  
 ---
