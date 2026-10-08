@@ -82,13 +82,16 @@ I also have experience in **manual testing, API testing, database testing, SQL q
 - [📊 Inventory & Reporting System](https://github.com/emonhossen99/inventory-system) – Laravel, MySQL  
 
 ### 🌐 Live Websites  
-- [DoppCall](https://doppcall.com/) – Full-stack Website  
-- [FDT Booking](https://fdtbooking.co.uk/) – Booking Platform  
-- [Pigeondex](https://www.pigeondex.com/) – Custom Web Application  
-- [Everyday Fashion BD](https://everydayfashionbd.com/) – E-commerce Fashion Store  
-- [Mostofa Traders](https://mostofatraders.com/) – Trading & Inventory Website  
-- [EasyDeal](https://easydeal.com.bd/) – Online Shopping Platform  
-- [AponShop](https://new.aponshop.xyz/) – Marketplace Website
+- [RNJBD](https://rnjbd.com) – Full-stack Laravel Website
+- [ComputerPriceBD](https://computerpricebd.com) – Full-stack Laravel Website
+- [Food Network Agro](https://foodnetworkagro.com) – Full-stack Laravel Website
+- [EasyDeal](https://easydeal.com.bd) – Online Shopping Platform  
+- [Rozafy](https://rozafy.com) – Full-stack Laravel Website
+- [Silbb](https://silbb.com) – Full-stack Laravel Website
+- [IPS Hatbazar](https://ipshatbazar.com) – Full-stack Laravel Website
+- [DoppCall](https://doppcall.com) – Full-stack Website  
+- [FDT Booking](https://fdtbooking.co.uk) – Booking Platform  
+- [Pigeondex](https://www.pigeondex.com) – Custom Web Application  
 
 ## 🎓 Education  
 - 🎓 **B.Sc in Computer Science & Engineering (CSE)**  
